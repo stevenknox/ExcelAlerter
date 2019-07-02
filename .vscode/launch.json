@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/ExcelAlerter/bin/Debug/netcoreapp2.2/ExcelAlerter.dll",
             "args": [],
             "cwd": "${workspaceFolder}/ExcelAlerter",
-            "console": "internalConsole",
+            "console": "externalTerminal",
             "stopAtEntry": false
         },
         {
